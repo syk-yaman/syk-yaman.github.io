@@ -22,7 +22,6 @@ li {
 
 img {
     float: right;
-    border-radius: 9999px;
   }
 
 a {
@@ -64,5 +63,7 @@ a {
 .tools-text-end{
     text-align: end;
   }
-  
+.tools-rounded{
+  border-radius: 9999px;
+}
  
