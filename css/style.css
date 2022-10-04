@@ -22,6 +22,7 @@ li {
 
 img {
     float: right;
+    border-radius: 9999px;
   }
 
 a {
