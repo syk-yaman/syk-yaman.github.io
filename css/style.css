@@ -1,0 +1,67 @@
+* {
+  font-family: Calibri;
+}
+
+body{
+  padding: 5px 40px 40px 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: table;
+    margin: 0 auto;
+    font-size: 25px;
+  }
+
+li {
+      padding: 20px;
+      display: inline;
+  }
+
+img {
+    float: right;
+  }
+
+a {
+    color: #0073A0;
+    text-decoration: none;
+  }
+  
+#navigation-container{
+    padding-bottom: 10px;
+    border-bottom: 2px solid  #0073A0;
+  }
+
+#bottom-nav{
+    background-color: rgb(199, 199, 199);
+  }
+
+#nav-container{
+    padding: 10px;
+  }
+
+.nav-table{
+    width: 100%; 
+    table-layout: fixed;
+  }
+
+#nav-border{
+    padding-top: 10px;
+    border-top: 2px solid  #0073A0;
+  }
+
+
+  /* Tools section */
+.tools-text-start {
+    text-align: start;
+  }
+.tools-text-centre{
+    text-align: center;
+  }
+.tools-text-end{
+    text-align: end;
+  }
+  
+ 
