@@ -66,4 +66,8 @@ a {
 .tools-rounded{
   border-radius: 9999px;
 }
+.tools-selected-item{
+  background-color: rgb(233 233 233);
+  padding: 3px;
+}
  
